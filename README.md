@@ -5,13 +5,13 @@ just becuase an asterioid is destroyed, does not mean its pieces cannot still sm
 ## Motivation
 Enjoy a fast paced game reminiscent of the classic asteroids game. 
 
-### Quick Start
+## Quick Start
 Controls to play are simple WASD, using W to move forward, S to move backward, and A and D to turn your ship 
 
-#### Usage 
+## Usage 
 
 
-##### Contributing
+## Contributing
 
 
 
